@@ -1,0 +1,9 @@
+/pylexnet
+builds/**/p
+*.o
+__pycache__/
+dev_cache/
+corpus_cache/
+*.log
+rep_*.txt
+fit_*.txt
